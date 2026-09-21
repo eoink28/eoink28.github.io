@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /tools/
 
-Sitemap: https://eoink28.github.io/sitemap.xml
+Sitemap: https://eoinkenny.ie/sitemap.xml
